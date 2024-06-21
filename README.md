@@ -1,4 +1,4 @@
-👋 Greetings! I'm Emanuel Lopez, a seasoned Full-stack Developer based in the Dominican Republic, boasting 4 years of hands-on expertise.
+👋 Greetings! I'm Emanuel Lopez, a seasoned Full-stack Developer based in the Dominican Republic.
 
 🚀 I specialize in transforming intricate problems into seamless and sophisticated interface designs, combining both functionality and aesthetic appeal.
 
